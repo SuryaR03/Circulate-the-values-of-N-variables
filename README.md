@@ -29,6 +29,8 @@ def circulate():
     print("After circulating the values are:",result)
     
 ## Output
-![image](https://github.com/SuryaR03/Circulate-the-values-of-N-variables/assets/147140237/86faae2e-43e7-4fa5-8407-bf2409f60b05)
+
+![image](https://github.com/SuryaR03/Circulate-the-values-of-N-variables/assets/147140237/0f267b7e-32ee-4db8-b950-429279a119b6)
+
 
 ## Result:
