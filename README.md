@@ -27,7 +27,8 @@ def circulate():
     n=int(input())
     result=list1[n:]+list1[:n]
     print("After circulating the values are:",result)
-##OUTPUT:
-    ![image](https://github.com/SuryaR03/Circulate-the-values-of-N-variables/assets/147140237/86faae2e-43e7-4fa5-8407-bf2409f60b05)
+    
+## Output
+![image](https://github.com/SuryaR03/Circulate-the-values-of-N-variables/assets/147140237/86faae2e-43e7-4fa5-8407-bf2409f60b05)
 
 ## Result:
